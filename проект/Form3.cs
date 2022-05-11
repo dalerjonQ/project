@@ -62,7 +62,7 @@ namespace проект
             int value4 = rnd.Next(33, 200);
             int value5 = rnd.Next(150, 300);
             int value6 = rnd.Next(142, 200);
-            int value7 = rnd.Next(112, 298);
+            int value7 = rnd.Next(123, 298);
             int value8 = rnd.Next(66, 266);
             int value9 = rnd.Next(142, 200);
             int sum0 = value0 * gavai;
