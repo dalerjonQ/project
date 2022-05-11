@@ -1,0 +1,50 @@
+Z:\проект пиццерия\проект\проект\bin\Debug\проект.exe.config
+Z:\проект пиццерия\проект\проект\bin\Debug\проект.exe
+Z:\проект пиццерия\проект\проект\bin\Debug\проект.pdb
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.Form4.resources
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.Properties.Resources.resources
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.csproj.GenerateResource.cache
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.exe
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.pdb
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.MENU1.resources
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.csproj.AssemblyReference.cache
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.MENU1.resources
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.Form2.resources
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.Form4.resources
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.Properties.Resources.resources
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.csproj.GenerateResource.cache
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.exe
+C:\Users\www\Desktop\проект пиццерия\проект\проект\obj\Debug\проект.pdb
+C:\Users\www\Desktop\проект пиццерия\проект\проект\bin\Debug\проект.exe.config
+C:\Users\www\Desktop\проект пиццерия\проект\проект\bin\Debug\проект.exe
+C:\Users\www\Desktop\проект пиццерия\проект\проект\bin\Debug\проект.pdb
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.csprojAssemblyReference.cache
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.Form2.resources
+Z:\проект пиццерия\проект\проект\obj\Debug\проект.csproj.CoreCompileInputs.cache
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\bin\Debug\проект.exe.config
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\bin\Debug\проект.exe
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\bin\Debug\проект.pdb
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.csproj.AssemblyReference.cache
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.MENU1.resources
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.Form2.resources
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.Form4.resources
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.Properties.Resources.resources
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.csproj.GenerateResource.cache
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.csproj.CoreCompileInputs.cache
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.exe
+C:\Program Files\Новая папка\RB\проект пиццерия\проект\проект\obj\Debug\проект.pdb
+C:\Users\daler\Desktop\проект\проект\bin\Debug\проект.exe.config
+C:\Users\daler\Desktop\проект\проект\bin\Debug\проект.exe
+C:\Users\daler\Desktop\проект\проект\bin\Debug\проект.pdb
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.csproj.AssemblyReference.cache
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.csproj.SuggestedBindingRedirects.cache
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.MENU1.resources
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.Form2.resources
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.Form4.resources
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.Properties.Resources.resources
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.csproj.GenerateResource.cache
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.csproj.CoreCompileInputs.cache
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.exe
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.pdb
+C:\Users\daler\Desktop\проект\проект\obj\Debug\проект.Form3.resources
