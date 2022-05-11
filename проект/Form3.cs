@@ -193,7 +193,7 @@ namespace проект
             int value2 = rnd.Next(4800, 13304);
             int value3 = rnd.Next(4800, 13304);
             int value4 = rnd.Next(4800, 13304);
-            int value5 = rnd.Next(4800, 13304);
+            int value5 = rnd.Next(4800, 13305);
             int value6 = rnd.Next(4800, 13304);
             int value7 = rnd.Next(4800, 13304);
             int value8 = rnd.Next(4800, 13304);
