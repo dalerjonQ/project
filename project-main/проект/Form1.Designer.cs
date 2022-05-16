@@ -549,6 +549,7 @@
             // label5
             // 
             this.label5.BackColor = System.Drawing.Color.DarkOrange;
+            this.label5.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
             this.label5.Location = new System.Drawing.Point(-14, 687);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(1474, 103);
@@ -628,6 +629,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label6);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "MENU1";
             this.Text = "ss";
             this.Load += new System.EventHandler(this.MENU1_Load);

@@ -87,7 +87,16 @@ namespace проект
             textBox1.Text += value8.ToString() + "  пицц 4 сыра - " + sum8.ToString() + " руб. общая сумма проданных пицц данного образца" + Environment.NewLine;
             textBox1.Text += value9.ToString() + "  пицц Бомбони - " + sum9.ToString() + " руб. общая сумма проданных пицц данного образца" + Environment.NewLine;
 
-
+           chart1.Series[0].Points.AddXY(Convert.ToDouble(value0), Convert.ToDouble(sum0));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value1), Convert.ToDouble(sum1));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value2), Convert.ToDouble(sum2));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value3), Convert.ToDouble(sum3));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value4), Convert.ToDouble(sum4));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value5), Convert.ToDouble(sum5));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value6), Convert.ToDouble(sum6));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value7), Convert.ToDouble(sum7));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value8), Convert.ToDouble(sum8));
+            chart1.Series[0].Points.AddXY(Convert.ToDouble(value9), Convert.ToDouble(sum9));
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -209,6 +218,7 @@ namespace проект
             int sum7 = value7 * sirnaya;
             int sum8 = value8 * chetsira;
             int sum9 = value9 * bomboni;
+            
 
             textBox3.Text = value0.ToString() + "  Гавайских пицц - " + sum0.ToString() + " руб. общая сумма проданных пицц данного образца" + Environment.NewLine;
             textBox3.Text += value1.ToString() + "  пицц Карбонара - " + sum1.ToString() + " руб. общая сумма проданных пицц данного образца" + Environment.NewLine;
@@ -221,7 +231,24 @@ namespace проект
             textBox3.Text += value8.ToString() + "  пицц 4 сыра - " + sum8.ToString() + " руб. общая сумма проданных пицц данного образца" + Environment.NewLine;
             textBox3.Text += value9.ToString() + "  пицц Бомбони - " + sum9.ToString() + " руб. общая сумма проданных пицц данного образца" + Environment.NewLine;
 
+           
 
+
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chart1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            chart1.Series[0].Points.AddXY( "  " , " " );
         }
     }
 }
